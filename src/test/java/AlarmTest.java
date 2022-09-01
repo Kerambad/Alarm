@@ -17,7 +17,7 @@ public class AlarmTest {
         String actual = Alarm.alarmstufe(level, numb);
 
         //then
-       assertEquals("Zu viele Personen33", actual);
+       assertEquals("Zu viele Personen", actual);
 
     }
 
